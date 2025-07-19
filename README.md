@@ -18,11 +18,25 @@ Website ini adalah project web **perpustakaan digital** dengan tampilan modern y
 
 ## 🖼️ Tampilan
 
-| Login / Register | Daftar Buku | Detail Buku |
-|------------------|-------------|-------------|
-| ![login](https://source.unsplash.com/300x200/?login,ui) | ![books](https://source.unsplash.com/300x200/?books) | ![popup](https://source.unsplash.com/300x200/?popup,form) |
+Tampilan utama dari website Perpustakaan Digital Gen Z terdiri dari:
+
+- 🟡 **Halaman Login / Register**: Form modern dengan input Email, NIM, dan Password.
+- 📚 **Halaman Daftar Buku**: Grid interaktif berisi koleksi buku pilihan lengkap dengan tombol "Lihat Detail".
+- 📄 **Popup Detail Buku**: Menampilkan cover buku, informasi singkat, serta form peminjaman online.
+
+Tampilan didesain responsif dan friendly untuk generasi muda.
 
 ---
+
+## 👨‍💻 Tim Pengembang
+
+| Nama Lengkap           | NIM         | Tugas                                    |
+|------------------------|-------------|------------------------------------------|
+| Ulfa Nurjanah          | TI2021XXXX  | Desain UI/UX, struktur HTML & dokumentasi |
+| Alif Fadillah          | TI2021XXXX  | CSS styling, responsif, dan animasi      |
+| Rizky Maulana          | TI2021XXXX  | JavaScript: login, register, peminjaman  |
+| Salsabila Aisyah       | TI2021XXXX  | Struktur halaman buku & popup modal      |
+
 
 ## 🚀 Cara Menjalankan
 
