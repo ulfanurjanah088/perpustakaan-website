@@ -2,6 +2,8 @@
 
 Website ini adalah project web **perpustakaan digital** dengan tampilan modern yang dirancang khusus untuk Gen Z. Dibangun menggunakan **HTML**, **CSS**, dan **JavaScript** tanpa framework, aplikasi ini memungkinkan pengguna untuk **register, login, dan meminjam buku** secara online.
 
+🌐 [Lihat Demo Online](https://perpustakaan-website-seven.vercel.app/)
+
 ---
 
 ## ✨ Fitur Utama
