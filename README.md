@@ -32,10 +32,10 @@ Tampilan didesain responsif dan friendly untuk generasi muda.
 
 | Nama Lengkap           | NIM         | Tugas                                    |
 |------------------------|-------------|------------------------------------------|
-| Ulfa Nurjanah          | TI2021XXXX  | Desain UI/UX, struktur HTML & dokumentasi |
-| Alif Fadillah          | TI2021XXXX  | CSS styling, responsif, dan animasi      |
-| Rizky Maulana          | TI2021XXXX  | JavaScript: login, register, peminjaman  |
-| Salsabila Aisyah       | TI2021XXXX  | Struktur halaman buku & popup modal      |
+| Ulfa Nurjanah          | 144231023   | Desain UI/UX, struktur HTML & dokumentasi|
+| Desi Ramadani Putri    | 144231031   | CSS styling, responsif, dan animasi      |
+| Ega Seladevi           | 144231009   | JavaScript: login, register, peminjaman  |
+| Eka Dwi Lestari        | 144231006   | Struktur halaman buku & popup modal      |
 
 
 ## 🚀 Cara Menjalankan
